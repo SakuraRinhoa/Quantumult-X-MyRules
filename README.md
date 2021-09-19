@@ -1,5 +1,5 @@
 <h1 align="center">
-  <br>Quantumult-X-MyRules</br>
+Quantumult-X-MyRules
 </h1>
 
 <h4 align="center">这里是リンホア的QuantumultX自建规则仓库，随意取用。</h4>
