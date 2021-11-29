@@ -8,11 +8,11 @@ Quantumult-X-MyRules
 
 - 包含了自己制作的图标。
 - 为Princess Connect! Re:Dive创建了专属分流策略。
-- 即将添加 Minecraft 基岩版的规则。
+- 为Minecraft 基岩版创建了专属分流策略。
 
 ## To-Do
 
-- [ ] 分流Google搜索、Twitter
+- [ ] ？
 - [ ] ~~早睡早起~~
 
 ## Other
