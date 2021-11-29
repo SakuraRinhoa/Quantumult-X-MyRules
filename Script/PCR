@@ -1,0 +1,6 @@
+# > Pricess Connect! Re:Dive
+DOMAIN-KEYWORD, priconne-redive,PROXY
+DOMAIN-SUFFIX,cygames.jp,PROXY
+DOMAIN-SUFFIX,api-priconne-redive.cygames.jp,PROXY
+DOMAIN-SUFFIX,omotenashi.cygames.jp,PROXY
+DOMAIN-SUFFIX,prd-priconne-redive.akamaized.net,PROXY
