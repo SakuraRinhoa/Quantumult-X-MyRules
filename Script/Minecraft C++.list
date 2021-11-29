@@ -1,0 +1,10 @@
+# > Minecraft
+DOMAIN-SUFFIX,xsts.auth.xboxlive.com,PROXY
+DOMAIN-SUFFIX,title.mgt.xboxlive.com,PROXY
+DOMAIN,client.discovery.minecraft-services.net,PROXY
+DOMAIN,www.xboxab.com,PROXY
+DOMAIN,in.appcenter.ms,PROXY
+DOMAIN,mcnotifications2.servicebus.windows.net,PROXY
+DOMAIN,20ca2.playfabapi.com,PROXY
+DOMAIN,self.events.data.microsoft.com,PROXY
+DOMAIN,minecraftprod.rtep.msgamestudios.com,PROXY
