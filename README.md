@@ -6,7 +6,7 @@ Quantumult-X-MyRules
 
 ## Features
 
-- 包含了自己制作的图标。
+- 包含了自己制作的图标（标注：108x108）。
 - 为Princess Connect! Re:Dive创建了专属分流策略。
 - 为Minecraft 基岩版创建了专属分流策略。
 
