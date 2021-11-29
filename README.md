@@ -12,7 +12,7 @@ Quantumult-X-MyRules
 
 ## Introduce
 
-- 分流规则在<link=https://github.com/SakuraRinhoa/Quantumult-X-MyRules/tree/main/Script>Script</link>文件夹下，引用分流规则需要手动编写配置文件，编写配置文件请参考其他教程
+- 分流规则在[Script](https://github.com/SakuraRinhoa/Quantumult-X-MyRules/tree/main/Script)文件夹下，引用分流规则需要手动编写配置文件，编写配置文件请参考其他教程
 
 
 ## To-Do
