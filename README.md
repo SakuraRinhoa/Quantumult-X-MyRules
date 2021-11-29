@@ -6,7 +6,7 @@ Quantumult-X-MyRules
 
 ## Features
 
-- 包含了自己制作的图标（Quantumult X Logo 尺寸：108x108）
+- 包含了自己制作的图标（Quantumult X策略组Icon尺寸：108x108）
 - 为Princess Connect! Re:Dive、Minecraft创建了专属分流策略
 - 为Princess Connect! Re:Dive、Minecraft基岩版策略组创建了Icon
 
