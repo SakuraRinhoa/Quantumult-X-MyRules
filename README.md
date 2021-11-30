@@ -15,11 +15,11 @@ Quantumult-X-MyRules
 - 分流规则在[Script](https://github.com/SakuraRinhoa/Quantumult-X-MyRules/tree/main/Script)文件夹下
 - 策略组Icon在[Icon](https://github.com/SakuraRinhoa/Quantumult-X-MyRules/tree/main/Icon)文件夹下
 - **引用分流规则示例：**
-  - 需要在配置文件的[filter_remote]项添加如下代码：
+  - 需要在配置文件的 ***[filter_remote]*** 项添加如下代码：
 
     >```https://raw.githubusercontent.com/SakuraRinhoa/Quantumult-X-MyRules/main/Script/Minecraft%20C%2B%2B.list, tag=Minecraft, force-policy=🎮 Minecraft,enabled=true```
     
-  - 同时需要在[policy]下添加如下代码,即可为示例的Minecraft分流规则手动选择节点，同时显示本项目提供的策略组Icon：
+  - 同时需要在 ***[policy]*** 下添加如下代码,即可为示例的Minecraft分流规则手动选择节点，同时显示本项目提供的策略组Icon：
     
     >```static=🎮 Minecraft, proxy, img-url=https://raw.githubusercontent.com/SakuraRinhoa/Quantumult-X-MyRules/main/Icon/Minecraft.png```
     
